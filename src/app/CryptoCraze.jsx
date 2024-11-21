@@ -6,11 +6,11 @@ const CryptoCraze = () => {
     <section id="crypto-craze" className="bg-yellow-50 py-16 px-8">
       <div className="max-w-5xl mx-auto text-center">
         <h2 className="text-3xl font-bold text-yellow-700 mb-6">
-          The Crypto Craze: Why Everyone's Talking About It
+          The Crypto Craze: Why Everyone&apos;s Talking About It
         </h2>
         <p className="text-gray-700 text-lg leading-relaxed mb-8">
           Cryptocurrency is revolutionizing the financial world. From Bitcoin to 
-          Dogecoin, it’s more than just a trend—it’s a movement. Memecoins have 
+          Dogecoin, it&apos;s more than just a trend—it&apos;s a movement. Memecoins have 
           gained popularity because they are fun, fast-moving, and have the potential 
           to create millionaires overnight. But beware: this space is not without its 
           risks.
@@ -20,7 +20,7 @@ const CryptoCraze = () => {
           className="bg-blue-100 text-blue-700 px-6 py-4 rounded-lg shadow-md inline-block"
         >
           <p className="font-semibold text-lg">
-            "High risk, high reward—but only if you know what you're doing!"
+            "High risk, high reward—but only if you know what you&apos;re doing!"
           </p>
         </motion.div>
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-6">
